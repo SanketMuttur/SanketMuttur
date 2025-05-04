@@ -36,7 +36,8 @@ const SanketMuttur = {
       bigData: ["Kafka", "Mapper-Reducer", "Apache Spark"],
       devTools: ["Postman", "NPM"]
     },
-    currentFocus: ["Building an AI-powered handwritten prescription recognizer with a chatbot for alternative medicine recommendations.", "Looking for opportunities in Full-Stack Development & AI."]
+    currentFocus: ["Building an AI-powered handwritten prescription recognizer with a chatbot for alternative medicine recommendations.",
+                   "Looking for opportunities in Full-Stack Development & AI."]
 };
 ```
 
